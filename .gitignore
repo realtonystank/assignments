@@ -130,3 +130,4 @@ dist
 .pnp.*
 
 secrets.txt
+cache
